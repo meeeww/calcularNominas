@@ -1,0 +1,8 @@
+salario base 1400
+antiguedad: 2%
+
+a) trienio: 17/3 = 5
+quinquenios: 17/5 = 3
+
+b) trienios: 1400*0.02*5 = 140
+quinquenios: 1400*0.02*3 = 84

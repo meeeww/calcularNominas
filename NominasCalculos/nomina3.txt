@@ -1,0 +1,14 @@
+salario base: 37€
+plus actividad: 3€
+he fuerza mayor: 70€
+
+pee = (37 *30)*3 / 365 = 9,12
+bccc = 37 + 9.12 + 3 = 49.12
+bccc mensual = 49.12*30 = 1473.60
+
+bccp = 1473.60 + 70 = 1543.6
+
+cc = 4.7% de 46.12
+desempleado = 1.55% de 116.12
+fp = 0.1% de 116.12
+he = 2% de 70

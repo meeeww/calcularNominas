@@ -1,0 +1,16 @@
+1900
+100 horas extras
+locomocion 150km a 0,30
+tres pagas extras
+
+pee = 1900 * 3/12 = 475
+bccc = 1900 + 28.5 + 475 = 2403.5
+
+bccp = 2403.5 + 100 = 2503.5
+
+cc = 4.7% de 2403.5
+desempleo = 1.55% de 2503.5
+fp = 0.1% de 2503.5
+he = 2% de 100
+
+total devengado = 1900+100+0.3+150 = 2045
