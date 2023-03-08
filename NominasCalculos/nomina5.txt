@@ -1,0 +1,13 @@
+1700 base
+plus actividad
+plus dedicacion
+dos pagas
+
+pee = 2 * 1700 / 12 = 283.33
+bccc = 1700 + 250 + 60 + 283.33 = 2.293.33
+bccp = 2.293.33 = 1543.6
+
+cc = 4.7% de 1543.6 = 72.55
+desempleado = 1.55% de 1543.6 = 23.92
+fp = 0.1% de 1543.6 = 1.54
+

@@ -1,0 +1,18 @@
+salario base: 1300
+antiguedad: 5% cada trienio (4 trienios)
+tiques comida: 15 tiques de 15€ cada uno = 225
+horas extraordinarias fuerza mayor: 160€
+horas extraordinarias: 300€
+dos pagas extraordinarias
+retencion irpf 12%
+
+trienios: 1300*0.05*4 = 260
+ppe = (1300 * 2) / 12 = 216.67
+bccc = 1300 + 300 + 255 + 260 = 2115
+bccp = 2115 + 160 = 2275
+
+cc = 4.7% de 2115
+desempleado = 1.55% de 2275
+fp = 0.1% de 2275
+he fuerza mayor = 2% de 160
+he = 4.7% de 300
